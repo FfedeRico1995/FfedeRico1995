@@ -64,7 +64,7 @@ At work I operate a production network I designed myself:
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-bosi-ing)
-[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/overview)
+[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c514e-c9fa-730f-b510-d33e82cb9b4e)
 
 ---
 
